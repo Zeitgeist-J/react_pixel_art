@@ -1,5 +1,5 @@
-# react_pixel_art
-Created with CodeSandbox
+# react pixel art
+React repository
 :3
 
 Project by NM
