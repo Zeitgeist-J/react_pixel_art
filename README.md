@@ -1,5 +1,3 @@
-# react pixel art
-React repository
-:3
-
-Project by NM
+# React Pixel Art
+Pixel art board in react
+Project by Zeitgeist

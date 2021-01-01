@@ -1,9 +1,9 @@
 import React, { useContext } from "react";
 import { ColorContext } from "../contexts/PainterContext";
-import "./ColorPicker.css";
 import { colors } from "../contexts/PainterContext";
+import "./ColorPicker.css";
 
-function ColorPicker() {
+const ColorPicker = () => {
   const { setSelectedColor } = useContext(ColorContext);
 
   const colorOption = (color) => {

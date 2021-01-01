@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { ColorContext } from "../contexts/PainterContext";
 
-function ColorPreview() {
+const ColorPreview = () => {
   const { selectedColor } = useContext(ColorContext);
 
   return (

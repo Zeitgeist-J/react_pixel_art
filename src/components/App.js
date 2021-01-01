@@ -5,7 +5,7 @@ import ColorPreview from "./ColorPreview";
 import { ColorProvider } from "../contexts/PainterContext";
 import "./App.css";
 
-function App() {
+const App = () => {
   return (
     <ColorProvider>
       <div>
